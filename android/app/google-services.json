@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "66827926142",
+    "firebase_url": "https://netbrowse-a551b.firebaseio.com",
+    "project_id": "netbrowse-a551b",
+    "storage_bucket": "netbrowse-a551b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66827926142:android:0e4a0a8bd310666c",
+        "android_client_info": {
+          "package_name": "com.clientsoftech.netbrowse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66827926142-jiitdd8df4p5fadtabid197hdr5f3lco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvj_7mo_Iyl2mSBdJNj5xSu22B7nAeqSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66827926142-jiitdd8df4p5fadtabid197hdr5f3lco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
